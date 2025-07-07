@@ -6,7 +6,7 @@ SMS Shield is a secure full-stack web application built to protect users' phone 
 
 -----------------------------
 📸 Project Preview
-(Add a screenshot image here after hosting)
+
 
 -----------------------------
 🧩 Features
